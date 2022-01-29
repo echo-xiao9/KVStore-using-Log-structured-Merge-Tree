@@ -33,3 +33,10 @@ For the test files, of course you could modify it to debug your programs. But re
 Good luck :)
 
 # KVStore-using-Log-structured-Merge-Tree
+
+[Project report](https://github.com/echo-xiao9/KVStore-using-Log-structured-Merge-Tree/blob/main/LSMTreeReport.pdf)
+
+
+
+
+
